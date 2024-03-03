@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Visualizing.Boston</title>
+
+        <!-- Favicons -->
+        <link href="img/favicon.png" rel="icon">
+        <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+        <link href="https://cdn.jsdelivr.net/npm/simple-datatables@6/dist/style.css" rel="stylesheet" type="text/css">
+
+        <!-- Google Fonts -->
+        <link href="https://fonts.gstatic.com" rel="preconnect">
+        <link
+            href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+            rel="stylesheet">
+
+        <!-- Vendor CSS Files -->
+        <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+        <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+        <link href="vendor/quill/quill.snow.css" rel="stylesheet">
+        <link href="vendor/quill/quill.bubble.css" rel="stylesheet">
+        <link href="vendor/remixicon/remixicon.css" rel="stylesheet">
+        <link href="vendor/simple-datatables/style.css" rel="stylesheet">
+
+        <!-- Template Main CSS File -->
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/customstyle.css" rel="stylesheet">
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+    </head>
+
+<body>
+    <div class="container py-5">
+        <h1 class="text-center mb-4">Boston's Rainfall Patterns (2010-2018)</h1>
+        <p class="text-center mb-5">Explore the ever-changing skies of Boston through our comprehensive analysis of
+            rainfall from 2010 to 2018. This journey through precipitation patterns reveals not just the city's weather
+            dynamics but its resilience and adaptation to varying climatic rhythms.</p>
+
+
+        <div class="act">
+            <h2 class="act-title">Introduction (Year: 2010)</h2>
+            <p>As we delve into Boston's rainfall data, we notice that the year 2010 was one of the driest years on
+                record.
+                The city received only 38 inches of rainfall throughout the year, which is significantly lower than the
+                average annual rainfall of 44 inches.</p>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title text-center">
+                        Rainfall in Year: 2010
+                    </h5>
+                    <div style="min-height: 365px;">
+                        <div class="apexcharts-canvas apexchartssw9beakv apexcharts-theme-light d-flex justify-content-center">
+                            <svg id="chart-2010" width="800" height="400"></svg>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="act">
+                <h2 class="act-title">The Deluge of 2011</h2>
+                <p>The year 2011 stands as a monumental chapter in Boston's weather history, a period when the heavens
+                    opened up like never before, showering the city with an unprecedented 477.78 inches of rainfall.
+                    This
+                    deluge tested the city's mettle, inundating streets and swelling rivers, but also replenishing
+                    reservoirs and nurturing the parched earth. It was a year when Bostonians witnessed the power of
+                    nature
+                    in its full majesty.</p>
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">
+                            Rainfall in Year: 2011
+                        </h5>
+                        <div class="d-flex justify-content-center">
+                            <select id="locationDropdown" class="form-select" aria-label="Location dropdown">
+                            </select>
+                        </div>
+                        <div style="min-height: 365px;">
+                            <div class="apexcharts-canvas apexchartssw9beakv apexcharts-theme-light  d-flex justify-content-center">
+                                <svg id="chart-2011" width="811" height="350"></svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="act">
+                <h2 class="act-title">Ebbing Tides (2012-2014)</h2>
+                <p>In the years that followed, Boston saw a gradual receding of the tides. The total rainfall dropped to
+                    316.47 inches in 2012 and slightly dipped further in 2013 to 315.48 inches, before making a mild
+                    rebound to 349.87 inches in 2014. These years of ebbing rainfall marked a period of adjustment and
+                    reflection for the city, as it grappled with the aftermath of 2011's torrential rains and prepared
+                    for uncertain futures.</p>
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">
+                            Rainfall in Years: 2012-2014
+                        </h5>
+                        <div class="d-flex justify-content-center">
+                        <select id="locationDropdown1" class="form-select" aria-label="Location dropdown">
+                        </select><br>
+                        </div>
+                        <div style="min-height: 365px;">
+                            <div class="apexcharts-canvas apexchartssw9beakv apexcharts-theme-light  d-flex justify-content-center">
+                                <svg id="chart-2012" width="811" height="350"></svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="act">
+                <h2 class="act-title">The Dry Spell (2015-2016)</h2>
+                <p>The narrative took a stark turn in 2015, as the skies above Boston grew stingy, bestowing upon the
+                    city a mere 188.96 inches of rainfall, the lowest in our eight-year saga. This dry spell persisted
+                    into 2016, with the city receiving only 242.40 inches of rain. These years of scarcity were a stark
+                    reminder of the capricious nature of weather, challenging Boston to innovate and adapt its water
+                    management strategies.</p>
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">
+                            Rainfall in Years: 2015-2016
+                        </h5>
+                        <div class="d-flex justify-content-center">
+                        <select id="locationDropdown2" class="form-select" aria-label="Location dropdown">
+                        </select><br>
+                        </div>
+                        <div style="min-height: 365px;">
+                            <div class="apexcharts-canvas apexchartssw9beakv apexcharts-theme-light  d-flex justify-content-center">
+                                <svg id="chart-2015" width="811" height="350"></svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="act">
+                <h2 class="act-title">A Gradual Resurgence (2017-2018)</h2>
+                <p>Emerging from the drought, the years 2017 and 2018 marked a period of gradual resurgence for Boston's
+                    rainfall. In 2017, the rain gauges collected 303.43 inches, setting the stage for 2018's significant
+                    rebound to 410.37 inches. This resurgence was a balm to the city's landscapes, quenching the thirst
+                    of both land and life, and restoring balance to Boston's ecological and urban environments.</p>
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">
+                            Rainfall in Years: 2017-2018
+                        </h5>
+                        <div class="d-flex justify-content-center">
+                        <select id="locationDropdown3" class="form-select" aria-label="Location dropdown">
+                        </select><br>
+                        </div>
+                        <div style="min-height: 365px;">
+                            <div class="apexcharts-canvas apexchartssw9beakv apexcharts-theme-light  d-flex justify-content-center">
+                                <div id="tooltip"></div>
+                                <svg id="chart-2017" width="811" height="500"></svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="act">
+                <h2>Conclusion</h2>
+                <p>Through the lens of rainfall from 2011 to 2018, Boston's story is one of resilience, adaptation, and
+                    the indomitable spirit of its people and governance in the face of climatic whims. Each year's
+                    rainfall total, from the deluge of 2011 to the recovery in 2018, weaves a tale of a city in constant
+                    dialogue with its environment, learning, and evolving. As we move forward, this chronicle of
+                    precipitation not only enriches our understanding of the past but also illuminates the path toward a
+                    sustainable and resilient future.</p>
+            </div>
+            <script src="2010_rainfall.js"></script>
+            <script src="2011_rainfall.js"></script>
+            <script src="2012_rainfall.js"></script>
+            <script src="2015_rainfall.js"></script>
+            <script src="2017_rainfall.js"></script>
+</body>
+
+</html>

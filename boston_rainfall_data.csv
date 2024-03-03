@@ -1,0 +1,743 @@
+Unnamed: 0,Month,Inches,year,Location
+0,January,2.85,2012,Hyde Park - Cleary Sq
+1,February,0.88,2012,Hyde Park - Cleary Sq
+2,March,1.72,2012,Hyde Park - Cleary Sq
+3,April,3.31,2012,Hyde Park - Cleary Sq
+4,May,3.47,2012,Hyde Park - Cleary Sq
+5,June,4.95,2012,Hyde Park - Cleary Sq
+6,July,3.94,2012,Hyde Park - Cleary Sq
+7,August,4.12,2012,Hyde Park - Cleary Sq
+8,September,3.63,2012,Hyde Park - Cleary Sq
+9,October,4.16,2012,Hyde Park - Cleary Sq
+10,November,1.41,2012,Hyde Park - Cleary Sq
+11,December,5.57,2012,Hyde Park - Cleary Sq
+12,January,2.69,2016,Hyde Park - Cleary Sq
+13,February,4.02,2016,Hyde Park - Cleary Sq
+14,March,3.1,2016,Hyde Park - Cleary Sq
+15,April,3.55,2016,Hyde Park - Cleary Sq
+16,May,2.98,2016,Hyde Park - Cleary Sq
+17,June,1.54,2016,Hyde Park - Cleary Sq
+18,July,1.38,2016,Hyde Park - Cleary Sq
+19,August,1.6,2016,Hyde Park - Cleary Sq
+20,September,1.84,2016,Hyde Park - Cleary Sq
+21,October,7.06,2016,Hyde Park - Cleary Sq
+22,November,2.65,2016,Hyde Park - Cleary Sq
+23,December,3.13,2016,Hyde Park - Cleary Sq
+24,January,1.93,2011,Hyde Park - Cleary Sq
+25,February,4.2,2011,Hyde Park - Cleary Sq
+26,March,2.56,2011,Hyde Park - Cleary Sq
+27,April,4.72,2011,Hyde Park - Cleary Sq
+28,May,3.86,2011,Hyde Park - Cleary Sq
+29,June,4.91,2011,Hyde Park - Cleary Sq
+30,July,2.73,2011,Hyde Park - Cleary Sq
+31,August,10.46,2011,Hyde Park - Cleary Sq
+32,September,6.62,2011,Hyde Park - Cleary Sq
+33,October,13.26,2011,Hyde Park - Cleary Sq
+34,November,5.23,2011,Hyde Park - Cleary Sq
+35,December,4.23,2011,Hyde Park - Cleary Sq
+36,January,4.26,2017,Hyde Park - Cleary Sq
+37,February,2.11,2017,Hyde Park - Cleary Sq
+38,March,3.68,2017,Hyde Park - Cleary Sq
+39,April,6.27,2017,Hyde Park - Cleary Sq
+40,May,4.39,2017,Hyde Park - Cleary Sq
+41,June,5.36,2017,Hyde Park - Cleary Sq
+42,July,3.46,2017,Hyde Park - Cleary Sq
+43,August,2.0,2017,Hyde Park - Cleary Sq
+44,September,3.02,2017,Hyde Park - Cleary Sq
+45,October,6.35,2017,Hyde Park - Cleary Sq
+46,November,1.92,2017,Hyde Park - Cleary Sq
+47,December,2.27,2017,Hyde Park - Cleary Sq
+48,January,2.38,2015,Hyde Park - Cleary Sq
+49,February,0.49,2015,Hyde Park - Cleary Sq
+50,March,2.43,2015,Hyde Park - Cleary Sq
+51,April,2.53,2015,Hyde Park - Cleary Sq
+52,May,0.15,2015,Hyde Park - Cleary Sq
+53,June,3.64,2015,Hyde Park - Cleary Sq
+54,July,3.2,2015,Hyde Park - Cleary Sq
+55,August,2.13,2015,Hyde Park - Cleary Sq
+56,September,3.32,2015,Hyde Park - Cleary Sq
+57,October,2.01,2015,Hyde Park - Cleary Sq
+58,November,2.24,2015,Hyde Park - Cleary Sq
+59,December,4.25,2015,Hyde Park - Cleary Sq
+60,January,1.4,2013,Hyde Park - Cleary Sq
+61,February,3.5,2013,Hyde Park - Cleary Sq
+62,March,2.43,2013,Hyde Park - Cleary Sq
+63,April,1.96,2013,Hyde Park - Cleary Sq
+64,May,3.1,2013,Hyde Park - Cleary Sq
+65,June,10.26,2013,Hyde Park - Cleary Sq
+66,July,4.71,2013,Hyde Park - Cleary Sq
+67,August,2.53,2013,Hyde Park - Cleary Sq
+68,September,4.36,2013,Hyde Park - Cleary Sq
+69,October,0.91,2013,Hyde Park - Cleary Sq
+70,November,3.14,2013,Hyde Park - Cleary Sq
+71,December,4.39,2013,Hyde Park - Cleary Sq
+72,January,2.58,2014,Hyde Park - Cleary Sq
+73,February,2.73,2014,Hyde Park - Cleary Sq
+74,March,4.58,2014,Hyde Park - Cleary Sq
+75,April,3.54,2014,Hyde Park - Cleary Sq
+76,May,2.9,2014,Hyde Park - Cleary Sq
+77,June,2.21,2014,Hyde Park - Cleary Sq
+78,July,5.94,2014,Hyde Park - Cleary Sq
+79,August,1.31,2014,Hyde Park - Cleary Sq
+80,September,0.38,2014,Hyde Park - Cleary Sq
+81,October,7.54,2014,Hyde Park - Cleary Sq
+82,November,5.7,2014,Hyde Park - Cleary Sq
+83,December,6.92,2014,Hyde Park - Cleary Sq
+84,December,0.0,2010,Hyde Park - Cleary Sq
+85,January,3.97,2018,Hyde Park - Cleary Sq
+86,February,3.97,2018,Hyde Park - Cleary Sq
+87,March,6.06,2018,Hyde Park - Cleary Sq
+88,April,5.78,2018,Hyde Park - Cleary Sq
+89,May,1.98,2018,Hyde Park - Cleary Sq
+90,June,2.76,2018,Hyde Park - Cleary Sq
+91,July,3.56,2018,Hyde Park - Cleary Sq
+92,August,4.34,2018,Hyde Park - Cleary Sq
+93,September,7.02,2018,Hyde Park - Cleary Sq
+94,October,5.15,2018,Hyde Park - Cleary Sq
+95,November,9.61,2018,Hyde Park - Cleary Sq
+96,December,3.38,2018,Hyde Park - Cleary Sq
+0,December,0.0,2010,Roslindale - Roslindale Sq
+1,January,1.52,2013,Roslindale - Roslindale Sq
+2,February,4.03,2013,Roslindale - Roslindale Sq
+3,March,2.56,2013,Roslindale - Roslindale Sq
+4,April,1.92,2013,Roslindale - Roslindale Sq
+5,May,3.7,2013,Roslindale - Roslindale Sq
+6,June,10.24,2013,Roslindale - Roslindale Sq
+7,July,3.44,2013,Roslindale - Roslindale Sq
+8,August,2.11,2013,Roslindale - Roslindale Sq
+9,September,3.68,2013,Roslindale - Roslindale Sq
+10,October,0.79,2013,Roslindale - Roslindale Sq
+11,November,3.14,2013,Roslindale - Roslindale Sq
+12,December,4.53,2013,Roslindale - Roslindale Sq
+13,January,4.55,2017,Roslindale - Roslindale Sq
+14,February,2.21,2017,Roslindale - Roslindale Sq
+15,March,3.61,2017,Roslindale - Roslindale Sq
+16,April,6.91,2017,Roslindale - Roslindale Sq
+17,May,4.44,2017,Roslindale - Roslindale Sq
+18,June,5.14,2017,Roslindale - Roslindale Sq
+19,July,3.09,2017,Roslindale - Roslindale Sq
+20,August,2.09,2017,Roslindale - Roslindale Sq
+21,September,4.27,2017,Roslindale - Roslindale Sq
+22,October,5.91,2017,Roslindale - Roslindale Sq
+23,November,1.94,2017,Roslindale - Roslindale Sq
+24,December,2.34,2017,Roslindale - Roslindale Sq
+25,January,3.01,2012,Roslindale - Roslindale Sq
+26,February,0.97,2012,Roslindale - Roslindale Sq
+27,March,1.69,2012,Roslindale - Roslindale Sq
+28,April,3.34,2012,Roslindale - Roslindale Sq
+29,May,3.53,2012,Roslindale - Roslindale Sq
+30,June,5.25,2012,Roslindale - Roslindale Sq
+31,July,3.62,2012,Roslindale - Roslindale Sq
+32,August,3.51,2012,Roslindale - Roslindale Sq
+33,September,3.56,2012,Roslindale - Roslindale Sq
+34,October,4.48,2012,Roslindale - Roslindale Sq
+35,November,1.37,2012,Roslindale - Roslindale Sq
+36,December,6.33,2012,Roslindale - Roslindale Sq
+37,January,2.13,2011,Roslindale - Roslindale Sq
+38,February,3.28,2011,Roslindale - Roslindale Sq
+39,March,2.15,2011,Roslindale - Roslindale Sq
+40,April,4.47,2011,Roslindale - Roslindale Sq
+41,May,3.18,2011,Roslindale - Roslindale Sq
+42,June,5.43,2011,Roslindale - Roslindale Sq
+43,July,2.1,2011,Roslindale - Roslindale Sq
+44,August,9.92,2011,Roslindale - Roslindale Sq
+45,September,7.03,2011,Roslindale - Roslindale Sq
+46,October,8.02,2011,Roslindale - Roslindale Sq
+47,November,4.38,2011,Roslindale - Roslindale Sq
+48,December,3.76,2011,Roslindale - Roslindale Sq
+49,January,2.6,2014,Roslindale - Roslindale Sq
+50,February,2.8,2014,Roslindale - Roslindale Sq
+51,March,4.53,2014,Roslindale - Roslindale Sq
+52,April,3.67,2014,Roslindale - Roslindale Sq
+53,May,3.12,2014,Roslindale - Roslindale Sq
+54,June,2.03,2014,Roslindale - Roslindale Sq
+55,July,6.07,2014,Roslindale - Roslindale Sq
+56,August,1.67,2014,Roslindale - Roslindale Sq
+57,September,0.53,2014,Roslindale - Roslindale Sq
+58,October,6.8,2014,Roslindale - Roslindale Sq
+59,November,5.71,2014,Roslindale - Roslindale Sq
+60,December,7.37,2014,Roslindale - Roslindale Sq
+61,January,3.61,2018,Roslindale - Roslindale Sq
+62,February,4.0,2018,Roslindale - Roslindale Sq
+63,March,6.0,2018,Roslindale - Roslindale Sq
+64,April,5.99,2018,Roslindale - Roslindale Sq
+65,May,2.34,2018,Roslindale - Roslindale Sq
+66,June,2.76,2018,Roslindale - Roslindale Sq
+67,July,4.58,2018,Roslindale - Roslindale Sq
+68,August,4.44,2018,Roslindale - Roslindale Sq
+69,September,6.71,2018,Roslindale - Roslindale Sq
+70,October,5.05,2018,Roslindale - Roslindale Sq
+71,November,10.11,2018,Roslindale - Roslindale Sq
+72,December,3.37,2018,Roslindale - Roslindale Sq
+73,January,2.41,2015,Roslindale - Roslindale Sq
+74,February,0.7,2015,Roslindale - Roslindale Sq
+75,March,2.38,2015,Roslindale - Roslindale Sq
+76,April,2.43,2015,Roslindale - Roslindale Sq
+77,May,0.19,2015,Roslindale - Roslindale Sq
+78,June,4.22,2015,Roslindale - Roslindale Sq
+79,July,2.8,2015,Roslindale - Roslindale Sq
+80,August,1.61,2015,Roslindale - Roslindale Sq
+81,September,3.53,2015,Roslindale - Roslindale Sq
+82,October,2.02,2015,Roslindale - Roslindale Sq
+83,November,2.21,2015,Roslindale - Roslindale Sq
+84,December,0.15,2015,Roslindale - Roslindale Sq
+85,February,1.39,2016,Roslindale - Roslindale Sq
+86,March,3.28,2016,Roslindale - Roslindale Sq
+87,April,3.53,2016,Roslindale - Roslindale Sq
+88,May,3.48,2016,Roslindale - Roslindale Sq
+89,June,1.26,2016,Roslindale - Roslindale Sq
+90,July,1.56,2016,Roslindale - Roslindale Sq
+91,August,1.47,2016,Roslindale - Roslindale Sq
+92,September,2.2,2016,Roslindale - Roslindale Sq
+93,October,6.8,2016,Roslindale - Roslindale Sq
+94,November,2.94,2016,Roslindale - Roslindale Sq
+95,December,3.1,2016,Roslindale - Roslindale Sq
+0,December,0.0,2010,Fenway - Longwood Medical Area
+1,February,1.12,2016,Fenway - Longwood Medical Area
+2,March,3.24,2016,Fenway - Longwood Medical Area
+3,April,3.12,2016,Fenway - Longwood Medical Area
+4,May,2.57,2016,Fenway - Longwood Medical Area
+5,June,1.46,2016,Fenway - Longwood Medical Area
+6,July,1.14,2016,Fenway - Longwood Medical Area
+7,August,1.52,2016,Fenway - Longwood Medical Area
+8,September,1.41,2016,Fenway - Longwood Medical Area
+9,October,6.24,2016,Fenway - Longwood Medical Area
+10,November,2.89,2016,Fenway - Longwood Medical Area
+11,December,3.1,2016,Fenway - Longwood Medical Area
+12,January,3.06,2012,Fenway - Longwood Medical Area
+13,February,1.11,2012,Fenway - Longwood Medical Area
+14,March,1.57,2012,Fenway - Longwood Medical Area
+15,April,3.15,2012,Fenway - Longwood Medical Area
+16,May,3.91,2012,Fenway - Longwood Medical Area
+17,June,4.54,2012,Fenway - Longwood Medical Area
+18,July,2.98,2012,Fenway - Longwood Medical Area
+19,August,1.88,2012,Fenway - Longwood Medical Area
+20,September,4.29,2012,Fenway - Longwood Medical Area
+21,October,3.7,2012,Fenway - Longwood Medical Area
+22,November,1.18,2012,Fenway - Longwood Medical Area
+23,December,6.77,2012,Fenway - Longwood Medical Area
+24,June,3.66,2015,Fenway - Longwood Medical Area
+25,July,2.25,2015,Fenway - Longwood Medical Area
+26,August,1.59,2015,Fenway - Longwood Medical Area
+27,September,4.1,2015,Fenway - Longwood Medical Area
+28,October,0.63,2015,Fenway - Longwood Medical Area
+29,November,1.7,2015,Fenway - Longwood Medical Area
+30,December,0.0,2015,Fenway - Longwood Medical Area
+31,January,3.06,2018,Fenway - Longwood Medical Area
+32,February,3.56,2018,Fenway - Longwood Medical Area
+33,March,3.83,2018,Fenway - Longwood Medical Area
+34,April,5.35,2018,Fenway - Longwood Medical Area
+35,May,1.93,2018,Fenway - Longwood Medical Area
+36,June,2.98,2018,Fenway - Longwood Medical Area
+37,July,3.32,2018,Fenway - Longwood Medical Area
+38,August,4.46,2018,Fenway - Longwood Medical Area
+39,September,5.48,2018,Fenway - Longwood Medical Area
+40,October,4.24,2018,Fenway - Longwood Medical Area
+41,November,9.83,2018,Fenway - Longwood Medical Area
+42,December,2.97,2018,Fenway - Longwood Medical Area
+43,January,2.16,2011,Fenway - Longwood Medical Area
+44,February,4.6,2011,Fenway - Longwood Medical Area
+45,March,2.69,2011,Fenway - Longwood Medical Area
+46,April,4.75,2011,Fenway - Longwood Medical Area
+47,May,3.18,2011,Fenway - Longwood Medical Area
+48,June,5.28,2011,Fenway - Longwood Medical Area
+49,July,2.02,2011,Fenway - Longwood Medical Area
+50,August,11.66,2011,Fenway - Longwood Medical Area
+51,September,6.65,2011,Fenway - Longwood Medical Area
+52,October,8.97,2011,Fenway - Longwood Medical Area
+53,November,5.07,2011,Fenway - Longwood Medical Area
+54,December,3.94,2011,Fenway - Longwood Medical Area
+55,January,1.46,2013,Fenway - Longwood Medical Area
+56,February,3.45,2013,Fenway - Longwood Medical Area
+57,March,2.0,2013,Fenway - Longwood Medical Area
+58,April,1.6,2013,Fenway - Longwood Medical Area
+59,May,3.82,2013,Fenway - Longwood Medical Area
+60,June,9.17,2013,Fenway - Longwood Medical Area
+61,July,3.82,2013,Fenway - Longwood Medical Area
+62,August,1.7,2013,Fenway - Longwood Medical Area
+63,September,2.01,2013,Fenway - Longwood Medical Area
+64,October,0.62,2013,Fenway - Longwood Medical Area
+65,November,2.86,2013,Fenway - Longwood Medical Area
+66,December,3.81,2013,Fenway - Longwood Medical Area
+67,January,2.36,2014,Fenway - Longwood Medical Area
+68,February,1.87,2014,Fenway - Longwood Medical Area
+69,March,3.79,2014,Fenway - Longwood Medical Area
+70,April,3.37,2014,Fenway - Longwood Medical Area
+71,May,2.52,2014,Fenway - Longwood Medical Area
+72,June,1.94,2014,Fenway - Longwood Medical Area
+73,July,5.17,2014,Fenway - Longwood Medical Area
+74,August,1.83,2014,Fenway - Longwood Medical Area
+75,September,0.51,2014,Fenway - Longwood Medical Area
+76,October,4.9,2014,Fenway - Longwood Medical Area
+77,November,3.18,2014,Fenway - Longwood Medical Area
+78,January,4.05,2017,Fenway - Longwood Medical Area
+79,February,2.16,2017,Fenway - Longwood Medical Area
+80,March,3.66,2017,Fenway - Longwood Medical Area
+81,April,5.82,2017,Fenway - Longwood Medical Area
+82,May,3.85,2017,Fenway - Longwood Medical Area
+83,June,4.26,2017,Fenway - Longwood Medical Area
+84,July,3.0,2017,Fenway - Longwood Medical Area
+85,August,0.89,2017,Fenway - Longwood Medical Area
+86,September,2.85,2017,Fenway - Longwood Medical Area
+87,October,6.24,2017,Fenway - Longwood Medical Area
+88,November,1.58,2017,Fenway - Longwood Medical Area
+89,December,2.04,2017,Fenway - Longwood Medical Area
+0,October,3.52,2017,Mattapan - Harambee Park
+1,November,1.88,2017,Mattapan - Harambee Park
+2,December,2.08,2017,Mattapan - Harambee Park
+3,December,0.0,2010,Mattapan - Harambee Park
+4,January,2.34,2015,Mattapan - Harambee Park
+5,February,0.12,2015,Mattapan - Harambee Park
+6,June,3.62,2015,Mattapan - Harambee Park
+7,July,2.52,2015,Mattapan - Harambee Park
+8,August,2.04,2015,Mattapan - Harambee Park
+9,September,3.73,2015,Mattapan - Harambee Park
+10,October,1.79,2015,Mattapan - Harambee Park
+11,November,1.74,2015,Mattapan - Harambee Park
+12,December,0.0,2015,Mattapan - Harambee Park
+13,January,3.77,2018,Mattapan - Harambee Park
+14,February,3.83,2018,Mattapan - Harambee Park
+15,March,4.99,2018,Mattapan - Harambee Park
+16,April,5.63,2018,Mattapan - Harambee Park
+17,May,2.13,2018,Mattapan - Harambee Park
+18,June,2.89,2018,Mattapan - Harambee Park
+19,July,4.09,2018,Mattapan - Harambee Park
+20,August,4.54,2018,Mattapan - Harambee Park
+21,September,6.44,2018,Mattapan - Harambee Park
+22,October,4.8,2018,Mattapan - Harambee Park
+23,November,7.21,2018,Mattapan - Harambee Park
+24,January,2.5,2014,Mattapan - Harambee Park
+25,February,1.95,2014,Mattapan - Harambee Park
+26,March,4.61,2014,Mattapan - Harambee Park
+27,April,3.56,2014,Mattapan - Harambee Park
+28,May,2.52,2014,Mattapan - Harambee Park
+29,June,2.55,2014,Mattapan - Harambee Park
+30,July,5.61,2014,Mattapan - Harambee Park
+31,August,1.89,2014,Mattapan - Harambee Park
+32,September,0.44,2014,Mattapan - Harambee Park
+33,October,6.62,2014,Mattapan - Harambee Park
+34,November,5.54,2014,Mattapan - Harambee Park
+35,December,7.23,2014,Mattapan - Harambee Park
+36,January,2.3,2011,Mattapan - Harambee Park
+37,February,4.31,2011,Mattapan - Harambee Park
+38,March,2.34,2011,Mattapan - Harambee Park
+39,April,5.27,2011,Mattapan - Harambee Park
+40,May,3.86,2011,Mattapan - Harambee Park
+41,June,5.27,2011,Mattapan - Harambee Park
+42,July,2.32,2011,Mattapan - Harambee Park
+43,August,10.67,2011,Mattapan - Harambee Park
+44,September,6.05,2011,Mattapan - Harambee Park
+45,October,10.49,2011,Mattapan - Harambee Park
+46,November,5.48,2011,Mattapan - Harambee Park
+47,December,4.2,2011,Mattapan - Harambee Park
+48,January,1.3,2013,Mattapan - Harambee Park
+49,February,3.53,2013,Mattapan - Harambee Park
+50,March,2.02,2013,Mattapan - Harambee Park
+51,April,1.76,2013,Mattapan - Harambee Park
+52,May,3.69,2013,Mattapan - Harambee Park
+53,June,10.6,2013,Mattapan - Harambee Park
+54,July,3.77,2013,Mattapan - Harambee Park
+55,August,2.25,2013,Mattapan - Harambee Park
+56,September,3.63,2013,Mattapan - Harambee Park
+57,October,0.75,2013,Mattapan - Harambee Park
+58,November,3.04,2013,Mattapan - Harambee Park
+59,December,4.45,2013,Mattapan - Harambee Park
+60,February,1.36,2016,Mattapan - Harambee Park
+61,March,3.2,2016,Mattapan - Harambee Park
+62,April,2.92,2016,Mattapan - Harambee Park
+63,May,2.78,2016,Mattapan - Harambee Park
+64,June,1.44,2016,Mattapan - Harambee Park
+65,July,1.42,2016,Mattapan - Harambee Park
+66,August,1.4,2016,Mattapan - Harambee Park
+67,September,0.73,2016,Mattapan - Harambee Park
+68,January,2.96,2012,Mattapan - Harambee Park
+69,February,0.96,2012,Mattapan - Harambee Park
+70,March,1.54,2012,Mattapan - Harambee Park
+71,April,4.11,2012,Mattapan - Harambee Park
+72,May,3.69,2012,Mattapan - Harambee Park
+73,June,4.96,2012,Mattapan - Harambee Park
+74,July,3.4,2012,Mattapan - Harambee Park
+75,August,3.3,2012,Mattapan - Harambee Park
+76,September,3.83,2012,Mattapan - Harambee Park
+77,October,3.46,2012,Mattapan - Harambee Park
+78,November,1.27,2012,Mattapan - Harambee Park
+79,December,5.94,2012,Mattapan - Harambee Park
+0,January,2.38,2014,Allston - Union Sq
+1,February,2.77,2014,Allston - Union Sq
+2,March,3.8,2014,Allston - Union Sq
+3,April,3.53,2014,Allston - Union Sq
+4,May,2.68,2014,Allston - Union Sq
+5,June,2.19,2014,Allston - Union Sq
+6,July,5.27,2014,Allston - Union Sq
+7,August,2.37,2014,Allston - Union Sq
+8,September,0.68,2014,Allston - Union Sq
+9,October,4.91,2014,Allston - Union Sq
+10,November,5.07,2014,Allston - Union Sq
+11,December,7.57,2014,Allston - Union Sq
+12,January,4.09,2017,Allston - Union Sq
+13,February,1.85,2017,Allston - Union Sq
+14,March,3.12,2017,Allston - Union Sq
+15,April,6.25,2017,Allston - Union Sq
+16,May,4.05,2017,Allston - Union Sq
+17,June,4.36,2017,Allston - Union Sq
+18,July,3.83,2017,Allston - Union Sq
+19,August,0.89,2017,Allston - Union Sq
+20,September,1.78,2017,Allston - Union Sq
+21,October,5.95,2017,Allston - Union Sq
+22,November,1.91,2017,Allston - Union Sq
+23,December,2.02,2017,Allston - Union Sq
+24,December,2.39,2010,Allston - Union Sq
+25,January,3.2,2018,Allston - Union Sq
+26,February,3.65,2018,Allston - Union Sq
+27,March,4.6,2018,Allston - Union Sq
+28,April,5.83,2018,Allston - Union Sq
+29,May,2.02,2018,Allston - Union Sq
+30,June,3.32,2018,Allston - Union Sq
+31,July,3.83,2018,Allston - Union Sq
+32,August,3.9,2018,Allston - Union Sq
+33,September,5.93,2018,Allston - Union Sq
+34,October,0.84,2018,Allston - Union Sq
+35,January,2.76,2016,Allston - Union Sq
+36,February,2.96,2016,Allston - Union Sq
+37,March,3.61,2016,Allston - Union Sq
+38,April,3.38,2016,Allston - Union Sq
+39,May,2.67,2016,Allston - Union Sq
+40,June,1.74,2016,Allston - Union Sq
+41,July,0.96,2016,Allston - Union Sq
+42,August,1.53,2016,Allston - Union Sq
+43,September,1.46,2016,Allston - Union Sq
+44,October,5.74,2016,Allston - Union Sq
+45,November,3.0,2016,Allston - Union Sq
+46,December,3.12,2016,Allston - Union Sq
+47,January,1.87,2011,Allston - Union Sq
+48,February,4.18,2011,Allston - Union Sq
+49,March,2.86,2011,Allston - Union Sq
+50,April,4.63,2011,Allston - Union Sq
+51,May,2.86,2011,Allston - Union Sq
+52,June,4.87,2011,Allston - Union Sq
+53,July,2.12,2011,Allston - Union Sq
+54,August,12.36,2011,Allston - Union Sq
+55,September,6.4,2011,Allston - Union Sq
+56,October,9.38,2011,Allston - Union Sq
+57,November,5.17,2011,Allston - Union Sq
+58,December,3.93,2011,Allston - Union Sq
+59,January,1.37,2013,Allston - Union Sq
+60,February,3.4,2013,Allston - Union Sq
+61,March,1.86,2013,Allston - Union Sq
+62,April,1.44,2013,Allston - Union Sq
+63,May,3.81,2013,Allston - Union Sq
+64,June,9.86,2013,Allston - Union Sq
+65,July,3.17,2013,Allston - Union Sq
+66,August,1.78,2013,Allston - Union Sq
+67,September,2.07,2013,Allston - Union Sq
+68,October,0.47,2013,Allston - Union Sq
+69,November,2.92,2013,Allston - Union Sq
+70,December,3.99,2013,Allston - Union Sq
+71,January,3.04,2012,Allston - Union Sq
+72,February,1.03,2012,Allston - Union Sq
+73,March,1.5,2012,Allston - Union Sq
+74,April,3.1,2012,Allston - Union Sq
+75,May,3.78,2012,Allston - Union Sq
+76,June,3.85,2012,Allston - Union Sq
+77,July,3.62,2012,Allston - Union Sq
+78,August,2.04,2012,Allston - Union Sq
+79,September,4.92,2012,Allston - Union Sq
+80,October,5.69,2012,Allston - Union Sq
+81,November,0.95,2012,Allston - Union Sq
+82,December,6.88,2012,Allston - Union Sq
+83,January,1.85,2015,Allston - Union Sq
+84,February,0.28,2015,Allston - Union Sq
+85,March,2.11,2015,Allston - Union Sq
+86,April,2.05,2015,Allston - Union Sq
+87,May,0.24,2015,Allston - Union Sq
+88,June,4.64,2015,Allston - Union Sq
+89,July,2.43,2015,Allston - Union Sq
+90,August,2.15,2015,Allston - Union Sq
+91,September,4.54,2015,Allston - Union Sq
+92,October,2.44,2015,Allston - Union Sq
+93,November,2.07,2015,Allston - Union Sq
+94,December,4.6,2015,Allston - Union Sq
+0,January,2.06,2011,Dorchester - Adams Village
+1,February,4.01,2011,Dorchester - Adams Village
+2,March,1.85,2011,Dorchester - Adams Village
+3,April,4.54,2011,Dorchester - Adams Village
+4,May,3.36,2011,Dorchester - Adams Village
+5,June,4.78,2011,Dorchester - Adams Village
+6,July,2.56,2011,Dorchester - Adams Village
+7,August,9.32,2011,Dorchester - Adams Village
+8,September,5.18,2011,Dorchester - Adams Village
+9,October,9.92,2011,Dorchester - Adams Village
+10,November,4.64,2011,Dorchester - Adams Village
+11,December,3.8,2011,Dorchester - Adams Village
+12,January,2.38,2015,Dorchester - Adams Village
+13,February,0.31,2015,Dorchester - Adams Village
+14,June,3.57,2015,Dorchester - Adams Village
+15,July,2.61,2015,Dorchester - Adams Village
+16,August,1.84,2015,Dorchester - Adams Village
+17,September,3.56,2015,Dorchester - Adams Village
+18,October,1.83,2015,Dorchester - Adams Village
+19,November,2.38,2015,Dorchester - Adams Village
+20,December,3.99,2015,Dorchester - Adams Village
+21,January,3.43,2018,Dorchester - Adams Village
+22,February,3.82,2018,Dorchester - Adams Village
+23,March,4.35,2018,Dorchester - Adams Village
+24,April,5.29,2018,Dorchester - Adams Village
+25,May,2.16,2018,Dorchester - Adams Village
+26,June,2.96,2018,Dorchester - Adams Village
+27,July,3.48,2018,Dorchester - Adams Village
+28,August,5.43,2018,Dorchester - Adams Village
+29,September,6.68,2018,Dorchester - Adams Village
+30,October,5.14,2018,Dorchester - Adams Village
+31,November,7.59,2018,Dorchester - Adams Village
+32,January,2.58,2016,Dorchester - Adams Village
+33,February,3.67,2016,Dorchester - Adams Village
+34,March,2.98,2016,Dorchester - Adams Village
+35,April,3.13,2016,Dorchester - Adams Village
+36,May,2.59,2016,Dorchester - Adams Village
+37,June,1.54,2016,Dorchester - Adams Village
+38,July,1.36,2016,Dorchester - Adams Village
+39,August,1.21,2016,Dorchester - Adams Village
+40,September,1.53,2016,Dorchester - Adams Village
+41,October,6.22,2016,Dorchester - Adams Village
+42,November,2.94,2016,Dorchester - Adams Village
+43,December,2.94,2016,Dorchester - Adams Village
+44,January,2.72,2012,Dorchester - Adams Village
+45,February,0.96,2012,Dorchester - Adams Village
+46,March,1.44,2012,Dorchester - Adams Village
+47,April,3.64,2012,Dorchester - Adams Village
+48,May,3.52,2012,Dorchester - Adams Village
+49,June,4.6,2012,Dorchester - Adams Village
+50,July,3.37,2012,Dorchester - Adams Village
+51,August,3.41,2012,Dorchester - Adams Village
+52,September,3.64,2012,Dorchester - Adams Village
+53,October,3.38,2012,Dorchester - Adams Village
+54,November,1.14,2012,Dorchester - Adams Village
+55,December,5.52,2012,Dorchester - Adams Village
+56,January,1.39,2013,Dorchester - Adams Village
+57,February,3.69,2013,Dorchester - Adams Village
+58,March,2.32,2013,Dorchester - Adams Village
+59,April,1.75,2013,Dorchester - Adams Village
+60,May,3.46,2013,Dorchester - Adams Village
+61,June,11.55,2013,Dorchester - Adams Village
+62,July,4.62,2013,Dorchester - Adams Village
+63,August,2.55,2013,Dorchester - Adams Village
+64,September,3.09,2013,Dorchester - Adams Village
+65,October,0.79,2013,Dorchester - Adams Village
+66,November,3.03,2013,Dorchester - Adams Village
+67,December,4.53,2013,Dorchester - Adams Village
+68,December,1.72,2010,Dorchester - Adams Village
+69,January,4.24,2017,Dorchester - Adams Village
+70,February,2.24,2017,Dorchester - Adams Village
+71,March,3.27,2017,Dorchester - Adams Village
+72,April,6.24,2017,Dorchester - Adams Village
+73,May,3.99,2017,Dorchester - Adams Village
+74,June,5.05,2017,Dorchester - Adams Village
+75,July,3.65,2017,Dorchester - Adams Village
+76,August,3.08,2017,Dorchester - Adams Village
+77,September,2.88,2017,Dorchester - Adams Village
+78,October,5.11,2017,Dorchester - Adams Village
+79,November,1.83,2017,Dorchester - Adams Village
+80,December,1.97,2017,Dorchester - Adams Village
+81,January,2.57,2014,Dorchester - Adams Village
+82,February,2.73,2014,Dorchester - Adams Village
+83,March,4.53,2014,Dorchester - Adams Village
+84,April,3.44,2014,Dorchester - Adams Village
+85,May,2.37,2014,Dorchester - Adams Village
+86,June,2.67,2014,Dorchester - Adams Village
+87,July,6.05,2014,Dorchester - Adams Village
+88,August,1.57,2014,Dorchester - Adams Village
+89,September,0.5,2014,Dorchester - Adams Village
+90,October,7.45,2014,Dorchester - Adams Village
+91,November,5.99,2014,Dorchester - Adams Village
+92,December,7.27,2014,Dorchester - Adams Village
+0,January,3.89,2011,Charlestown - Bunker Hill
+1,February,4.56,2011,Charlestown - Bunker Hill
+2,March,2.23,2011,Charlestown - Bunker Hill
+3,April,4.65,2011,Charlestown - Bunker Hill
+4,May,2.87,2011,Charlestown - Bunker Hill
+5,June,4.84,2011,Charlestown - Bunker Hill
+6,July,2.19,2011,Charlestown - Bunker Hill
+7,August,10.24,2011,Charlestown - Bunker Hill
+8,September,5.56,2011,Charlestown - Bunker Hill
+9,October,8.03,2011,Charlestown - Bunker Hill
+10,November,4.79,2011,Charlestown - Bunker Hill
+11,December,3.9,2011,Charlestown - Bunker Hill
+12,January,3.74,2017,Charlestown - Bunker Hill
+13,February,1.64,2017,Charlestown - Bunker Hill
+14,March,3.15,2017,Charlestown - Bunker Hill
+15,April,5.81,2017,Charlestown - Bunker Hill
+16,May,3.36,2017,Charlestown - Bunker Hill
+17,June,4.8,2017,Charlestown - Bunker Hill
+18,July,3.87,2017,Charlestown - Bunker Hill
+19,August,1.32,2017,Charlestown - Bunker Hill
+20,September,2.86,2017,Charlestown - Bunker Hill
+21,October,4.89,2017,Charlestown - Bunker Hill
+22,November,1.8,2017,Charlestown - Bunker Hill
+23,December,1.99,2017,Charlestown - Bunker Hill
+24,January,2.41,2014,Charlestown - Bunker Hill
+25,February,2.83,2014,Charlestown - Bunker Hill
+26,March,4.18,2014,Charlestown - Bunker Hill
+27,April,3.33,2014,Charlestown - Bunker Hill
+28,May,2.99,2014,Charlestown - Bunker Hill
+29,June,2.64,2014,Charlestown - Bunker Hill
+30,July,4.77,2014,Charlestown - Bunker Hill
+31,August,2.04,2014,Charlestown - Bunker Hill
+32,September,1.01,2014,Charlestown - Bunker Hill
+33,October,5.02,2014,Charlestown - Bunker Hill
+34,November,5.19,2014,Charlestown - Bunker Hill
+35,December,7.39,2014,Charlestown - Bunker Hill
+36,December,3.34,2010,Charlestown - Bunker Hill
+37,January,3.12,2018,Charlestown - Bunker Hill
+38,February,3.75,2018,Charlestown - Bunker Hill
+39,March,3.82,2018,Charlestown - Bunker Hill
+40,April,4.95,2018,Charlestown - Bunker Hill
+41,May,1.91,2018,Charlestown - Bunker Hill
+42,June,3.23,2018,Charlestown - Bunker Hill
+43,July,4.05,2018,Charlestown - Bunker Hill
+44,August,4.61,2018,Charlestown - Bunker Hill
+45,September,5.54,2018,Charlestown - Bunker Hill
+46,October,4.01,2018,Charlestown - Bunker Hill
+47,November,9.24,2018,Charlestown - Bunker Hill
+48,December,2.71,2018,Charlestown - Bunker Hill
+49,January,1.45,2013,Charlestown - Bunker Hill
+50,February,3.34,2013,Charlestown - Bunker Hill
+51,March,1.78,2013,Charlestown - Bunker Hill
+52,April,1.56,2013,Charlestown - Bunker Hill
+53,May,3.55,2013,Charlestown - Bunker Hill
+54,June,8.87,2013,Charlestown - Bunker Hill
+55,July,3.53,2013,Charlestown - Bunker Hill
+56,August,1.62,2013,Charlestown - Bunker Hill
+57,September,2.2,2013,Charlestown - Bunker Hill
+58,October,0.46,2013,Charlestown - Bunker Hill
+59,November,2.92,2013,Charlestown - Bunker Hill
+60,December,4.24,2013,Charlestown - Bunker Hill
+61,January,2.29,2015,Charlestown - Bunker Hill
+62,February,0.56,2015,Charlestown - Bunker Hill
+63,March,2.36,2015,Charlestown - Bunker Hill
+64,April,1.9,2015,Charlestown - Bunker Hill
+65,May,0.19,2015,Charlestown - Bunker Hill
+66,June,4.69,2015,Charlestown - Bunker Hill
+67,July,2.17,2015,Charlestown - Bunker Hill
+68,August,2.11,2015,Charlestown - Bunker Hill
+69,September,4.21,2015,Charlestown - Bunker Hill
+70,October,2.01,2015,Charlestown - Bunker Hill
+71,November,1.99,2015,Charlestown - Bunker Hill
+72,December,3.7,2015,Charlestown - Bunker Hill
+73,January,2.95,2012,Charlestown - Bunker Hill
+74,February,1.08,2012,Charlestown - Bunker Hill
+75,March,1.12,2012,Charlestown - Bunker Hill
+76,April,3.38,2012,Charlestown - Bunker Hill
+77,May,3.82,2012,Charlestown - Bunker Hill
+78,June,6.01,2012,Charlestown - Bunker Hill
+79,July,3.0,2012,Charlestown - Bunker Hill
+80,August,1.99,2012,Charlestown - Bunker Hill
+81,September,5.02,2012,Charlestown - Bunker Hill
+82,October,3.07,2012,Charlestown - Bunker Hill
+83,November,1.2,2012,Charlestown - Bunker Hill
+84,December,6.99,2012,Charlestown - Bunker Hill
+85,January,2.6,2016,Charlestown - Bunker Hill
+86,February,3.4,2016,Charlestown - Bunker Hill
+87,March,3.2,2016,Charlestown - Bunker Hill
+88,April,3.19,2016,Charlestown - Bunker Hill
+89,May,2.7,2016,Charlestown - Bunker Hill
+90,June,1.97,2016,Charlestown - Bunker Hill
+91,July,1.27,2016,Charlestown - Bunker Hill
+92,August,1.69,2016,Charlestown - Bunker Hill
+93,September,1.33,2016,Charlestown - Bunker Hill
+94,October,5.74,2016,Charlestown - Bunker Hill
+95,November,2.95,2016,Charlestown - Bunker Hill
+96,December,3.24,2016,Charlestown - Bunker Hill
+0,January,2.66,2011,South End - Union Park St. Playground
+1,February,4.79,2011,South End - Union Park St. Playground
+2,March,2.36,2011,South End - Union Park St. Playground
+3,April,4.79,2011,South End - Union Park St. Playground
+4,May,3.27,2011,South End - Union Park St. Playground
+5,June,5.28,2011,South End - Union Park St. Playground
+6,July,1.95,2011,South End - Union Park St. Playground
+7,August,10.34,2011,South End - Union Park St. Playground
+8,September,5.49,2011,South End - Union Park St. Playground
+9,October,8.79,2011,South End - Union Park St. Playground
+10,November,5.24,2011,South End - Union Park St. Playground
+11,December,4.33,2011,South End - Union Park St. Playground
+12,January,3.62,2018,South End - Union Park St. Playground
+13,February,3.83,2018,South End - Union Park St. Playground
+14,March,5.43,2018,South End - Union Park St. Playground
+15,April,5.49,2018,South End - Union Park St. Playground
+16,May,1.98,2018,South End - Union Park St. Playground
+17,June,2.66,2018,South End - Union Park St. Playground
+18,July,3.67,2018,South End - Union Park St. Playground
+19,August,4.66,2018,South End - Union Park St. Playground
+20,September,5.26,2018,South End - Union Park St. Playground
+21,October,4.48,2018,South End - Union Park St. Playground
+22,November,10.13,2018,South End - Union Park St. Playground
+23,December,2.9,2018,South End - Union Park St. Playground
+24,December,0.0,2010,South End - Union Park St. Playground
+25,January,3.15,2012,South End - Union Park St. Playground
+26,February,1.19,2012,South End - Union Park St. Playground
+27,March,1.65,2012,South End - Union Park St. Playground
+28,April,3.84,2012,South End - Union Park St. Playground
+29,May,3.83,2012,South End - Union Park St. Playground
+30,June,5.12,2012,South End - Union Park St. Playground
+31,July,3.24,2012,South End - Union Park St. Playground
+32,August,2.3,2012,South End - Union Park St. Playground
+33,September,4.48,2012,South End - Union Park St. Playground
+34,October,3.63,2012,South End - Union Park St. Playground
+35,November,1.4,2012,South End - Union Park St. Playground
+36,December,7.04,2012,South End - Union Park St. Playground
+37,January,4.48,2017,South End - Union Park St. Playground
+38,February,2.3,2017,South End - Union Park St. Playground
+39,March,3.36,2017,South End - Union Park St. Playground
+40,April,6.32,2017,South End - Union Park St. Playground
+41,May,3.93,2017,South End - Union Park St. Playground
+42,June,4.69,2017,South End - Union Park St. Playground
+43,July,3.21,2017,South End - Union Park St. Playground
+44,August,1.46,2017,South End - Union Park St. Playground
+45,September,3.2,2017,South End - Union Park St. Playground
+46,October,4.87,2017,South End - Union Park St. Playground
+47,November,1.53,2017,South End - Union Park St. Playground
+48,December,1.73,2017,South End - Union Park St. Playground
+49,January,2.49,2015,South End - Union Park St. Playground
+50,February,0.28,2015,South End - Union Park St. Playground
+51,June,4.01,2015,South End - Union Park St. Playground
+52,July,2.27,2015,South End - Union Park St. Playground
+53,August,2.24,2015,South End - Union Park St. Playground
+54,September,3.75,2015,South End - Union Park St. Playground
+55,October,2.06,2015,South End - Union Park St. Playground
+56,November,2.15,2015,South End - Union Park St. Playground
+57,December,4.41,2015,South End - Union Park St. Playground
+58,January,1.42,2013,South End - Union Park St. Playground
+59,February,4.02,2013,South End - Union Park St. Playground
+60,March,2.38,2013,South End - Union Park St. Playground
+61,April,1.59,2013,South End - Union Park St. Playground
+62,May,3.51,2013,South End - Union Park St. Playground
+63,June,10.49,2013,South End - Union Park St. Playground
+64,July,3.74,2013,South End - Union Park St. Playground
+65,August,1.9,2013,South End - Union Park St. Playground
+66,September,2.44,2013,South End - Union Park St. Playground
+67,October,0.66,2013,South End - Union Park St. Playground
+68,November,2.96,2013,South End - Union Park St. Playground
+69,December,4.48,2013,South End - Union Park St. Playground
+70,January,2.66,2014,South End - Union Park St. Playground
+71,February,3.26,2014,South End - Union Park St. Playground
+72,March,4.7,2014,South End - Union Park St. Playground
+73,April,3.56,2014,South End - Union Park St. Playground
+74,May,2.88,2014,South End - Union Park St. Playground
+75,June,2.57,2014,South End - Union Park St. Playground
+76,July,4.85,2014,South End - Union Park St. Playground
+77,August,1.89,2014,South End - Union Park St. Playground
+78,September,0.6,2014,South End - Union Park St. Playground
+79,October,5.48,2014,South End - Union Park St. Playground
+80,November,5.65,2014,South End - Union Park St. Playground
+81,December,7.92,2014,South End - Union Park St. Playground
+82,January,2.88,2016,South End - Union Park St. Playground
+83,February,3.89,2016,South End - Union Park St. Playground
+84,March,3.34,2016,South End - Union Park St. Playground
+85,April,3.35,2016,South End - Union Park St. Playground
+86,May,2.81,2016,South End - Union Park St. Playground
+87,June,1.18,2016,South End - Union Park St. Playground
+88,July,0.87,2016,South End - Union Park St. Playground
+89,August,1.84,2016,South End - Union Park St. Playground
+90,September,1.35,2016,South End - Union Park St. Playground
+91,October,6.14,2016,South End - Union Park St. Playground
+92,November,3.02,2016,South End - Union Park St. Playground
+93,December,3.22,2016,South End - Union Park St. Playground

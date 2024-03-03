@@ -1,0 +1,35 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.act-title {
+  margin-top: 2rem;
+  color: #007bff;
+}
+
+.card-body {
+  background-color: #f8f9fa;
+  border-radius: 0.5rem;
+  padding: 2rem;
+}
+
+.card-title {
+  font-weight: bold;
+  color: #007bff;
+}
+
+select.form-select {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 30%;
+}
+
+#tooltip {
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  visibility: hidden;
+  z-index: 10;
+}
